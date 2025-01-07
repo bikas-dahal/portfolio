@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+# Here is a Live [link](https://portfolio-nzzbg.kinsta.app/)
+
 First, run the development server:
 
 ```bash
